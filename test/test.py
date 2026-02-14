@@ -1,1 +1,2 @@
-print("hello world")
+message='hello\'s'
+print(message)
